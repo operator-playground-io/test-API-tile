@@ -1,10 +1,10 @@
 {
   "name": "test-API-tile",
   "description": "API-tile",
-  "logo": "_images/git_logo.png",
-  "has_supporting_content": true,
-  "stack_id": "test-API-tile-api_1609504316093",
-  "de_catalog_id": "test-API-tile-api_1609504316093",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "test-API-tile-api_1609506347813",
+  "de_catalog_id": "test-API-tile-api_1609506347813",
   "type": "API",
   "Categories": [
     "Public API"
@@ -12,7 +12,7 @@
   "platform": [
     null
   ],
-  "source_repo": "https://github.com/operator-playground-io/test-API-tile",
+  "source_repo": "https://sourceurl.com",
   "cover": "cover.md",
   "use_explorer_dataset": false,
   "use_catalog_dataset": "",
@@ -25,41 +25,32 @@
     "Type": [
       "API"
     ],
-    "Dataset": [
-      ""
-    ],
     "Categories": [
       "Public API"
     ],
     "Catalog Id": [
-      "test-API-tile-api_1609504316093"
+      "test-API-tile-api_1609506347813"
     ],
     "Contact": [
       "email@example.com"
     ],
     "Preferred Platform": [
-      "OpenShift"
+      "OpenShift / Kubernetes"
+    ],
+    "Last updated": [
+      "Dec 31 2020"
     ],
     "Managed By": [
       "API"
     ],
     "License and Use Rights": [
       "Licence and use rights"
-    ],
-    "Last updated": [
-      "Dec 31 2020"
     ]
   },
-  "commands": [
-    {
-      "description": "",
-      "exec": ""
-    }
-  ],
   "display": [
     {
       "name": "Developer Dashboard",
-      "url": "##DNS.host##/codeserve",
+      "url": "##DNS.host##/codeserver",
       "enabled": true
     }
   ]

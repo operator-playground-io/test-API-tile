@@ -1,14 +1,14 @@
 {
   "title": "test-API-tile",
   "description": "API-tile",
-  "logo": "_images/git_logo.png",
+  "logo": "_images/dataset.png",
   "enabled": true,
   "category_label": [
     "API"
   ],
   "document": "",
-  "stack_id": "test-API-tile-api_1609504316093",
-  "de_catalog_id": "test-API-tile-api_1609504316093",
+  "stack_id": "test-API-tile-api_1609506347813",
+  "de_catalog_id": "test-API-tile-api_1609506347813",
   "type": "API",
   "categories": [
     "Public API"
@@ -16,8 +16,8 @@
   "tag": [],
   "has_api": true,
   "has_dataset": true,
-  "is_certified": false,
-  "has_support": false,
+  "is_certified": true,
+  "has_support": true,
   "git_url": "",
   "git_commit": "",
   "installTime": "5 minutes"
