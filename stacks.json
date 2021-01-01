@@ -1,24 +1,24 @@
 {
-  "title": "title of tile",
-  "description": ",bh",
-  "logo": "_images/dataset.png",
+  "title": "test-API-tile",
+  "description": "API-tile",
+  "logo": "_images/git_logo.png",
   "enabled": true,
   "category_label": [
     "API"
   ],
   "document": "",
-  "stack_id": "title_of_tile-api_1609502233625",
-  "de_catalog_id": "title_of_tile-api_1609502233625",
+  "stack_id": "test-API-tile-api_1609504316093",
+  "de_catalog_id": "test-API-tile-api_1609504316093",
   "type": "API",
   "categories": [
-    "Java"
+    "Public API"
   ],
   "tag": [],
-  "has_api": false,
+  "has_api": true,
   "has_dataset": true,
   "is_certified": false,
   "has_support": false,
   "git_url": "",
   "git_commit": "",
-  "installTime": "1 minutes"
+  "installTime": "5 minutes"
 }

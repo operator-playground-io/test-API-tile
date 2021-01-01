@@ -1,18 +1,18 @@
 {
-  "name": "title of tile",
-  "description": ",bh",
-  "logo": "_images/dataset.png",
+  "name": "test-API-tile",
+  "description": "API-tile",
+  "logo": "_images/git_logo.png",
   "has_supporting_content": true,
-  "stack_id": "title_of_tile-api_1609502233625",
-  "de_catalog_id": "title_of_tile-api_1609502233625",
+  "stack_id": "test-API-tile-api_1609504316093",
+  "de_catalog_id": "test-API-tile-api_1609504316093",
   "type": "API",
   "Categories": [
-    "Java"
+    "Public API"
   ],
   "platform": [
     null
   ],
-  "source_repo": "https://sourceurl.com",
+  "source_repo": "https://github.com/operator-playground-io/test-API-tile",
   "cover": "cover.md",
   "use_explorer_dataset": false,
   "use_catalog_dataset": "",
@@ -20,7 +20,7 @@
   "deployment_information": "",
   "meta": {
     "Install Time": [
-      "1 minutes"
+      "5 minutes"
     ],
     "Type": [
       "API"
@@ -29,22 +29,25 @@
       ""
     ],
     "Categories": [
-      "Java"
+      "Public API"
     ],
     "Catalog Id": [
-      "title_of_tile-api_1609502233625"
+      "test-API-tile-api_1609504316093"
     ],
     "Contact": [
       "email@example.com"
     ],
     "Preferred Platform": [
-      "OpenShift / Kubernetes"
+      "OpenShift"
     ],
     "Managed By": [
-      "Manager"
+      "API"
     ],
     "License and Use Rights": [
       "Licence and use rights"
+    ],
+    "Last updated": [
+      "Dec 31 2020"
     ]
   },
   "commands": [
@@ -55,8 +58,8 @@
   ],
   "display": [
     {
-      "name": "evwvd",
-      "url": "url",
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserve",
       "enabled": true
     }
   ]
