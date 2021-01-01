@@ -1,0 +1,63 @@
+{
+  "name": "title of tile",
+  "description": ",bh",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": true,
+  "stack_id": "title_of_tile-api_1609502233625",
+  "de_catalog_id": "title_of_tile-api_1609502233625",
+  "type": "API",
+  "Categories": [
+    "Java"
+  ],
+  "platform": [
+    null
+  ],
+  "source_repo": "https://sourceurl.com",
+  "cover": "cover.md",
+  "use_explorer_dataset": false,
+  "use_catalog_dataset": "",
+  "is_s3_type": false,
+  "deployment_information": "",
+  "meta": {
+    "Install Time": [
+      "1 minutes"
+    ],
+    "Type": [
+      "API"
+    ],
+    "Dataset": [
+      ""
+    ],
+    "Categories": [
+      "Java"
+    ],
+    "Catalog Id": [
+      "title_of_tile-api_1609502233625"
+    ],
+    "Contact": [
+      "email@example.com"
+    ],
+    "Preferred Platform": [
+      "OpenShift / Kubernetes"
+    ],
+    "Managed By": [
+      "Manager"
+    ],
+    "License and Use Rights": [
+      "Licence and use rights"
+    ]
+  },
+  "commands": [
+    {
+      "description": "",
+      "exec": ""
+    }
+  ],
+  "display": [
+    {
+      "name": "evwvd",
+      "url": "url",
+      "enabled": true
+    }
+  ]
+}

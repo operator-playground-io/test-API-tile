@@ -1,0 +1,24 @@
+{
+  "title": "title of tile",
+  "description": ",bh",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "API"
+  ],
+  "document": "",
+  "stack_id": "title_of_tile-api_1609502233625",
+  "de_catalog_id": "title_of_tile-api_1609502233625",
+  "type": "API",
+  "categories": [
+    "Java"
+  ],
+  "tag": [],
+  "has_api": false,
+  "has_dataset": true,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "1 minutes"
+}
