@@ -1,5 +1,5 @@
 Go to github.com, create a public repository
-Unzip the downloaded contents on your workstation
+Unzip the downloaded contents on your workstation.
 You will see a folder contribution, all the contents inside the folder contribution should be hosted on the public git repository created as part of step 1
 Note the commit Id(full sha commit Id) of the commit after you upload the contents from contribution folder to git repository
 Copy Git url(Https)
